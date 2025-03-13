@@ -14,6 +14,8 @@ for pizza in pizzas:
     print(pizza)  # For every pizza in the pizzas list, print the pizza names
     print(f"I love {pizza.title()}.\n") # Prints the sentence "I love" with the pizzas in the list
 
+# New lines to break up sentences talking about pizza
+
 print(f"I really like bacon with the black pudding on a pizza.\n")
 print(f"Sometimes I go for spicy with honey on it.\n")
 print(f"You can beat a classic maggie.\n")
